@@ -39,7 +39,7 @@ export default function Programmers() {
    
     return programmers[featured - 1].name
   };
-// console.log(programmers[featured - 1].name)
+
 
 
   const style = {
